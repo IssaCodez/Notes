@@ -21,3 +21,19 @@
 
   <h3>Experiments</h3>
     <p>I like cheese :smirk: and i eat it all the time :grin:</p>
+
+  <h4>Keyboard shortcuts</h4>
+  <p>Shortcuts i frequently use:</p>
+   <ul>
+    <li>Ctrl + A = select all</li>
+    <li>Alt + PRT SC = screenshot</li>
+    <li>Ctrl + Alt + F4 = close browser</li>
+   </ul>
+
+  <p>Shortcuts i want to start using</p>
+   <ul>
+    <li>Ctrl + C = copy</li>
+    <li>Ctrl + V = paste</li>
+    <li>Ctrl + Z = undo</li>
+   </ul>
+   
