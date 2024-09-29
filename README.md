@@ -18,5 +18,5 @@
     - [Github](https://issacodez.github.io/Notes/)
 
   <h3> Experiments</h3>
-    <p> i like cheese and i eat it all the time &#128513; </p>
+  i like cheese and i eat it all the time &#128513;
 
