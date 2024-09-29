@@ -11,10 +11,10 @@
 - )elan
 
 ## Links
-  - [Gmail](https://www.google.com/intl/en/gmail/about/)
-  - [GBC](https://www.georgebrown.ca/)
-  - [Github](https://issacodez.github.io/Notes/)
+- [Gmail](https://www.google.com/intl/en/gmail/about/)
+- [GBC](https://www.georgebrown.ca/)
+- [Github](https://issacodez.github.io/Notes/)
 
-### Experiments
+## Experiments
   I like cheese and i eat it all the time &#128513;
 
