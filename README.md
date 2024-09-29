@@ -1,22 +1,20 @@
- <h1>Number Row Characters</h1>
+ # Number Row Characters
+- !iam
+- @tticus
+- #shim
+- $am
+- % percent
+- ^ idk
+- &ob
+- \* star
+- (arl
+- )elan
 
-    - !iam
-    - @tticus
-    - #shim
-    - $am
-    - % percent
-    - ^ idk
-    - &ob
-    - //* star
-    - /(arl
-    - /)elan
+## Links
+  - [Gmail](https://www.google.com/intl/en/gmail/about/)
+  - [GBC](https://www.georgebrown.ca/)
+  - [Github](https://issacodez.github.io/Notes/)
 
-  <h2> Links</h2>
-
-    - [Gmail](https://www.google.com/intl/en/gmail/about/)
-    - [GBC](https://www.georgebrown.ca/)
-    - [Github](https://issacodez.github.io/Notes/)
-
-  <h3> Experiments</h3>
-  i like cheese and i eat it all the time &#128513;
+### Experiments
+  I like cheese and i eat it all the time &#128513;
 
